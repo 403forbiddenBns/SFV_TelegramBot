@@ -1,0 +1,283 @@
+06.01.2021 17:09:16 | Vanilla_ISIS : 123
+06.01.2021 17:09:16 | SFVFramedataBot : No data.
+06.01.2021 17:09:16 | Vanilla_ISIS : 123
+06.01.2021 17:09:16 | SFVFramedataBot : No data.
+06.01.2021 17:09:20 | Vanilla_ISIS : /stats Ryu
+06.01.2021 17:09:21 | SFVFramedataBot : health - 1025
+stun - 1050
+vgauge1 - 600
+vgauge2 - 600
+taunt - 61
+nJump - 46 (4+38+4)
+fJump - 45 (3+38+4)
+bJump - 46 (4+38+4)
+fDash - 16
+bDash - 21
+bDashCHFrames - 3-10
+phrase - This is the path of my destiny!
+fWalk - 4,7
+bWalk - 3,2
+fJumpDist - 212,8
+bJumpDist - 182,4
+fDashDist - 145,2
+bDashDist - 97,3
+throwHurt - 0,25
+throwRange - 0,8
+
+06.01.2021 17:09:16 | Vanilla_ISIS : 123
+06.01.2021 17:09:16 | SFVFramedataBot : No data.
+06.01.2021 17:09:20 | Vanilla_ISIS : /stats Ryu
+06.01.2021 17:09:21 | SFVFramedataBot : health - 1025
+stun - 1050
+vgauge1 - 600
+vgauge2 - 600
+taunt - 61
+nJump - 46 (4+38+4)
+fJump - 45 (3+38+4)
+bJump - 46 (4+38+4)
+fDash - 16
+bDash - 21
+bDashCHFrames - 3-10
+phrase - This is the path of my destiny!
+fWalk - 4,7
+bWalk - 3,2
+fJumpDist - 212,8
+bJumpDist - 182,4
+fDashDist - 145,2
+bDashDist - 97,3
+throwHurt - 0,25
+throwRange - 0,8
+
+06.01.2021 17:09:40 | Vanilla_ISIS : 123
+06.01.2021 17:09:40 | SFVFramedataBot : No data.
+06.01.2021 17:13:42 | Vanilla_ISIS : 123
+06.01.2021 17:13:42 | SFVFramedataBot : No data.
+06.01.2021 17:13:42 | Vanilla_ISIS : 123
+06.01.2021 17:13:42 | SFVFramedataBot : No data.
+06.01.2021 17:13:46 | Vanilla_ISIS : /stats Ryu
+06.01.2021 17:13:47 | SFVFramedataBot : No data.
+06.01.2021 17:15:33 | Vanilla_ISIS : /stats Ryu
+06.01.2021 17:15:33 | SFVFramedataBot : health - 1025
+stun - 1050
+vgauge1 - 600
+vgauge2 - 600
+taunt - 61
+nJump - 46 (4+38+4)
+fJump - 45 (3+38+4)
+bJump - 46 (4+38+4)
+fDash - 16
+bDash - 21
+bDashCHFrames - 3-10
+phrase - This is the path of my destiny!
+fWalk - 4,7
+bWalk - 3,2
+fJumpDist - 212,8
+bJumpDist - 182,4
+fDashDist - 145,2
+bDashDist - 97,3
+throwHurt - 0,25
+throwRange - 0,8
+
+06.01.2021 17:15:33 | Vanilla_ISIS : /stats Ryu
+06.01.2021 17:15:33 | SFVFramedataBot : health - 1025
+stun - 1050
+vgauge1 - 600
+vgauge2 - 600
+taunt - 61
+nJump - 46 (4+38+4)
+fJump - 45 (3+38+4)
+bJump - 46 (4+38+4)
+fDash - 16
+bDash - 21
+bDashCHFrames - 3-10
+phrase - This is the path of my destiny!
+fWalk - 4,7
+bWalk - 3,2
+fJumpDist - 212,8
+bJumpDist - 182,4
+fDashDist - 145,2
+bDashDist - 97,3
+throwHurt - 0,25
+throwRange - 0,8
+
+06.01.2021 17:15:46 | Vanilla_ISIS : /stats ryu
+06.01.2021 17:15:47 | SFVFramedataBot : health - 1025
+stun - 1050
+vgauge1 - 600
+vgauge2 - 600
+taunt - 61
+nJump - 46 (4+38+4)
+fJump - 45 (3+38+4)
+bJump - 46 (4+38+4)
+fDash - 16
+bDash - 21
+bDashCHFrames - 3-10
+phrase - This is the path of my destiny!
+fWalk - 4,7
+bWalk - 3,2
+fJumpDist - 212,8
+bJumpDist - 182,4
+fDashDist - 145,2
+bDashDist - 97,3
+throwHurt - 0,25
+throwRange - 0,8
+
+06.01.2021 17:35:16 | Vanilla_ISIS : 123
+06.01.2021 17:35:16 | SFVFramedataBot : No data.
+06.01.2021 17:35:16 | Vanilla_ISIS : 123
+06.01.2021 17:35:16 | SFVFramedataBot : No data.
+06.01.2021 17:35:22 | Vanilla_ISIS : /stats Ryu
+06.01.2021 17:35:23 | SFVFramedataBot : Stand LP
+Stand MP
+Stand HP
+Stand LK
+Stand MK
+Stand HK
+Crouch LP
+Crouch MP
+Crouch HP
+Crouch LK
+Crouch MK
+Crouch HK
+Jump LP
+Jump MP
+Jump HP
+Jump LK
+Jump MK
+Jump HK
+Collarbone Breaker
+Solar Plexus Strike
+Axe Kick
+Jodan Sanrengeki 1st
+Jodan Sanrengeki 2nd
+Jodan Nirengeki
+Shoulder Throw
+Somersault Throw
+Mind's Eye
+Thrust Strike
+Denjin Renki
+Kakko Fubatsu
+Hashogeki
+Taunt
+LP Hadoken
+MP Hadoken
+HP Hadoken
+EX Hadoken
+LP Shoryuken
+MP Shoryuken
+HP Shoryuken
+EX Shoryuken
+LK Tatsumaki Senpukyaku
+MK Tatsumaki Senpukyaku
+HK Tatsumaki Senpukyaku
+EX Tatsumaki Senpukyaku
+LK Air Tatsumaki Senpukyaku
+MK Air Tatsumaki Senpukyaku
+HK Air Tatsumaki Senpukyaku
+EX Air Tatsumaki Senpukyaku
+LK Jodan Sokutou Geri
+MK Jodan Sokutou Geri
+HK Jodan Sokutou Geri
+EX Jodan Sokutou Geri
+Shinkuu Hadoken
+
+06.01.2021 18:11:19 | Vanilla_ISIS : /stats Ryu
+06.01.2021 18:11:19 | SFVFramedataBot : health - 1025
+stun - 1050
+vgauge1 - 600
+vgauge2 - 600
+taunt - 61
+nJump - 46 (4+38+4)
+fJump - 45 (3+38+4)
+bJump - 46 (4+38+4)
+fDash - 16
+bDash - 21
+bDashCHFrames - 3-10
+phrase - This is the path of my destiny!
+fWalk - 4,7
+bWalk - 3,2
+fJumpDist - 212,8
+bJumpDist - 182,4
+fDashDist - 145,2
+bDashDist - 97,3
+throwHurt - 0,25
+throwRange - 0,8
+
+06.01.2021 18:11:19 | Vanilla_ISIS : /stats Ryu
+06.01.2021 18:11:19 | SFVFramedataBot : health - 1025
+stun - 1050
+vgauge1 - 600
+vgauge2 - 600
+taunt - 61
+nJump - 46 (4+38+4)
+fJump - 45 (3+38+4)
+bJump - 46 (4+38+4)
+fDash - 16
+bDash - 21
+bDashCHFrames - 3-10
+phrase - This is the path of my destiny!
+fWalk - 4,7
+bWalk - 3,2
+fJumpDist - 212,8
+bJumpDist - 182,4
+fDashDist - 145,2
+bDashDist - 97,3
+throwHurt - 0,25
+throwRange - 0,8
+
+06.01.2021 18:11:31 | Vanilla_ISIS : /move Ryu stand LP
+06.01.2021 18:11:32 | SFVFramedataBot : No data.
+06.01.2021 18:11:19 | Vanilla_ISIS : /stats Ryu
+06.01.2021 18:11:19 | SFVFramedataBot : health - 1025
+stun - 1050
+vgauge1 - 600
+vgauge2 - 600
+taunt - 61
+nJump - 46 (4+38+4)
+fJump - 45 (3+38+4)
+bJump - 46 (4+38+4)
+fDash - 16
+bDash - 21
+bDashCHFrames - 3-10
+phrase - This is the path of my destiny!
+fWalk - 4,7
+bWalk - 3,2
+fJumpDist - 212,8
+bJumpDist - 182,4
+fDashDist - 145,2
+bDashDist - 97,3
+throwHurt - 0,25
+throwRange - 0,8
+
+06.01.2021 18:11:31 | Vanilla_ISIS : /move Ryu stand LP
+06.01.2021 18:11:32 | SFVFramedataBot : No data.
+06.01.2021 18:11:41 | Vanilla_ISIS : /move Ryu Stand LP
+06.01.2021 18:11:42 | SFVFramedataBot : moveName - Stand LP
+plnCmd - LP
+numCmd - 5LP
+startup - 3
+active - 2
+recovery - 7
+total - 11
+onHit - 4
+onBlock - 2
+vtcOnHit - 4
+vtcOnBlock - 2
+damage - 30
+stun - 70
+attackLevel - H
+cancelsTo :
+	sp
+	su
+	vt1
+	vt2
+airmove - False
+followUp - False
+projectile - False
+extraInfo :
+	Ryu is in throw range after block up close
+moveType - normal
+moveMotion - N
+moveButton - LP
+i - 1
+

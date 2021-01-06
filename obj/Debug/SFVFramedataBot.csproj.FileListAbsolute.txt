@@ -10,3 +10,15 @@ C:\Users\me\Desktop\gihub\Skillbox\TelegramBot\TelegramBot\bin\Debug\Telegram.Bo
 C:\Users\me\Desktop\gihub\Skillbox\TelegramBot\TelegramBot\bin\Debug\Newtonsoft.Json.xml
 C:\Users\me\Desktop\gihub\Skillbox\TelegramBot\TelegramBot\bin\Debug\Telegram.Bot.xml
 C:\Users\me\Desktop\gihub\Skillbox\TelegramBot\TelegramBot\obj\Debug\SFVFramedataBot.csproj.CopyComplete
+C:\Users\me\Desktop\gihub\SFV_TelegramBot\obj\Debug\SFVFramedataBot.csprojAssemblyReference.cache
+C:\Users\me\Desktop\gihub\SFV_TelegramBot\obj\Debug\SFVFramedataBot.csproj.CoreCompileInputs.cache
+C:\Users\me\Desktop\gihub\SFV_TelegramBot\obj\Debug\TelegramBot.exe
+C:\Users\me\Desktop\gihub\SFV_TelegramBot\obj\Debug\TelegramBot.pdb
+C:\Users\me\Desktop\gihub\SFV_TelegramBot\bin\Debug\TelegramBot.exe.config
+C:\Users\me\Desktop\gihub\SFV_TelegramBot\bin\Debug\TelegramBot.exe
+C:\Users\me\Desktop\gihub\SFV_TelegramBot\bin\Debug\TelegramBot.pdb
+C:\Users\me\Desktop\gihub\SFV_TelegramBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\me\Desktop\gihub\SFV_TelegramBot\bin\Debug\Telegram.Bot.dll
+C:\Users\me\Desktop\gihub\SFV_TelegramBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\me\Desktop\gihub\SFV_TelegramBot\bin\Debug\Telegram.Bot.xml
+C:\Users\me\Desktop\gihub\SFV_TelegramBot\obj\Debug\SFVFramedataBot.csproj.CopyComplete

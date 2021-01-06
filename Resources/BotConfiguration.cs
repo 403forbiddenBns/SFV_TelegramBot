@@ -11,7 +11,7 @@ namespace TelegramBot.Resources
 	public static class BotConfiguration
 	{
 		private static string BotName { get; set; } = "SFVFramedataBot";
-		private static string Token { get; set; } = "TOKEN"; //PUT YOUR TOKEN HERE!
+		private static string Token { get; set; } = File.ReadAllText(@"C:\Users\me\Desktop\gihub\token.txt");
 
 
 		#region Methods

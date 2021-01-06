@@ -54,6 +54,8 @@
     <Compile Include="Resources\BotConfiguration.cs" />
     <Compile Include="Resources\BotMethods.cs" />
     <Compile Include="Resources\JsonParseFrameData.cs" />
+    <Compile Include="Resources\LogItem.cs" />
+    <Compile Include="Resources\LogWriter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
